@@ -1,13 +1,14 @@
-html, body {
+html,
+body {
   height: 100%;
   width: 100%;
 }
 #my-header {
   background: rgb(55, 255, 0);
-  color: hsl(147 ,50%, 47%);
+  color: hsl(147, 50%, 47%);
   padding: 40px;
   text-align: center;
-  }
+}
 p {
   color: white;
 }
