@@ -5,8 +5,8 @@ body {
 }
 
 #my-header {
-  background: rgb(55, 255, 0);
-  color: hsl(147, 50%, 47%);
+  background: rgb(55 255 0);
+  color: hsl(147deg 50% 47%);
   padding: 40px;
   text-align: center;
 }
